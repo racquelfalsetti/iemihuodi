@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kipheejaeh.2864974.org/sitemap.xml
